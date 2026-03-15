@@ -1,1 +1,27 @@
-{\n  "name": "pi-code-theme",\n  "version": "1.0.0",\n  "description": "A warm earthy theme for Pi coding agent",\n  "keywords": ["pi-package", "theme", "pi-theme", "dark-theme"],\n  "pi": { "themes": ["./pi-code.json"] },\n  "repository": { "type": "git", "url": "git+https://github.com/ElieMessieCode/pi-code-theme.git" },\n  "author": "ElieMessieCode",\n  "license": "MIT",\n  "files": ["pi-code.json", "README.md", "LICENSE"]\n}
+﻿{
+    "pi":  {
+               "themes":  [
+                              "./pi-code.json"
+                          ]
+           },
+    "description":  "A warm, earthy dark theme for Pi coding agent with burnt orange and gold accents",
+    "version":  "1.0.0",
+    "files":  [
+                  "pi-code.json",
+                  "README.md",
+                  "LICENSE"
+              ],
+    "author":  "ElieMessieCode",
+    "name":  "@eliemessiecode/pi-code-theme",
+    "keywords":  [
+                     "pi-package",
+                     "theme",
+                     "pi-theme",
+                     "dark-theme"
+                 ],
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/ElieMessieCode/pi-code-theme.git"
+                   },
+    "license":  "MIT"
+}
