@@ -2,8 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/badlogic/pi-mono/main/packages/coding-agent/src/modes/interactive/theme/theme-schema.json",
   "name": "pi-code",
   "vars": {
-    "background": "#1a1a18",
-    "surface": "#2a2820",
+    "background": "#2a2a28",
+    "surface": "#3a3830",
     "foreground": "#f5f2ee",
     "muted": "#b8b4ae",
     "border": "#2a2820",
@@ -30,12 +30,12 @@
     "selectedBg": "surface",
     "userMessageBg": "surface",
     "userMessageText": "foreground",
-    "customMessageBg": "#2a2820",
+    "customMessageBg": "#3a3830",
     "customMessageText": "foreground",
     "customMessageLabel": "primary",
-    "toolPendingBg": "#222018",
-    "toolSuccessBg": "#1e281e",
-    "toolErrorBg": "#281e1e",
+    "toolPendingBg": "#323028",
+    "toolSuccessBg": "#2e382e",
+    "toolErrorBg": "#382e2e",
     "toolTitle": "accent",
     "toolOutput": "foreground",
     "mdHeading": "accent",
@@ -69,8 +69,8 @@
     "bashMode": "accent"
   },
   "export": {
-    "pageBg": "#1a1a18",
-    "cardBg": "#2a2820",
-    "infoBg": "#2a2820"
+    "pageBg": "#2a2a28",
+    "cardBg": "#3a3830",
+    "infoBg": "#3a3830"
   }
 }
