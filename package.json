@@ -4,8 +4,8 @@
             "./pi-code.json"
         ]
     },
-    "description": "A warm, earthy dark theme for Pi coding agent with burnt orange and gold accents",
-    "version": "1.0.3",
+    "description": "A dark theme for Pi coding agent inspired by Claude Code's color palette",
+    "version": "2.0.0",
     "files": [
         "pi-code.json",
         "README.md",
@@ -17,7 +17,8 @@
         "pi-package",
         "theme",
         "pi-theme",
-        "dark-theme"
+        "dark-theme",
+        "claude-code"
     ],
     "repository": {
         "type": "git",
