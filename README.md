@@ -1,6 +1,6 @@
 # pi-code-theme
 
-> A dark theme for Pi coding agent inspired by Claude Code's color palette
+> A warm, earthy dark theme for Pi coding agent with burnt orange and gold accents
 
 [![npm version](https://badge.fury.io/js/%40eliemessiecode%2Fpi-code-theme.svg)](https://www.npmjs.com/package/@eliemessiecode/pi-code-theme)
 
@@ -8,14 +8,25 @@
 
 | Token | Hex | Description |
 |-------|-----|-------------|
-| **Primary** | `#da7756` | Claude's signature coral/orange |
-| **Background** | `#0f172a` | Deep slate dark |
-| **Surface** | `#1e293b` | Slate 800 |
-| **Foreground** | `#e2e8f0` | Light slate text |
-| **Success** | `#10b981` | Emerald green |
-| **Error** | `#dc2626` | Red |
-| **Warning** | `#f59e0b` | Amber |
-| **Accent** | `#6366f1` | Indigo |
+| **Primary** | `#b75939` | Burnt orange |
+| **Accent** | `#d4a574` | Gold/cream |
+| **Background** | `#1a1a18` | Deep warm gray |
+| **Surface** | `#2a2820` | Warm brown-gray |
+| **Foreground** | `#f5f2ee` | Warm white |
+| **Success** | `#5a9a6a` | Muted green |
+| **Error** | `#c94040` | Soft red |
+| **Warning** | `#d4a574` | Gold/amber |
+
+## Syntax Highlighting
+
+| Element | Color |
+|---------|-------|
+| Keywords | `#b75939` (orange) |
+| Functions | `#d4a574` (gold) |
+| Strings | `#8aaa7a` (muted green) |
+| Variables | `#e8c49a` (cream) |
+| Numbers | `#d47254` (light orange) |
+| Types | `#c48c64` (terracotta) |
 
 ## Installation
 
