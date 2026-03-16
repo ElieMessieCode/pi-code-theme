@@ -5,7 +5,7 @@
         ]
     },
     "description": "A warm, earthy dark theme for Pi coding agent with burnt orange and gold accents",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "files": [
         "pi-code.json",
         "README.md",
